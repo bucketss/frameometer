@@ -1,7 +1,7 @@
 # frameometer
 
 AMXX module that measures each player's client fps by counting usercmds in a
-`pfnCmdStart` hook.. The last 60 seconds are kept per player and survive map changes.
+`pfnCmdStart` hook. The last 60 seconds are kept per player and survive map changes.
 
 ## Natives
 
